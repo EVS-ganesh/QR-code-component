@@ -39,13 +39,13 @@
         border-radius: 10px;
     }
     .darktext{
-        font-size: 15px;
+        font-size: 25px;
         color: hsl(0, 0, 0);
         font-weight: 700;
         font-family: 'Outfit';
     }
     .lighttext{
-        font-size: 15px;
+        font-size: 20px;
         color: hsl(220, 15%, 55%);
         font-weight: 400;
         font-family: 'Outfit';
